@@ -1,6 +1,6 @@
 # 开放域少样本视觉分类比赛 - Boosted Vision-Language Model with Ensemble Adapters
 
-![主要结果](./fig/main_flow.svg)
+![主要结果](./fig/main_flow.png)
 
 
 ## 简介
